@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1384505333
+    locked: 0
+  - name: World
+    uniqueID: 484027187
+    locked: 0
+  - name: Entities
+    uniqueID: 3951731223
+    locked: 0
+  - name: FX
+    uniqueID: 428571953
+    locked: 0
