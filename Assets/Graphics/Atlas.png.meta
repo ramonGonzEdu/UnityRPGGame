@@ -917,7 +917,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_3
+      name: Pipe_BR
       rect:
         serializedVersion: 2
         x: 48
@@ -938,7 +938,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_4
+      name: Pipe_C
       rect:
         serializedVersion: 2
         x: 64
@@ -959,7 +959,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_5
+      name: Stair_TL
       rect:
         serializedVersion: 2
         x: 80
@@ -980,7 +980,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_6
+      name: Stair_TR
       rect:
         serializedVersion: 2
         x: 96
@@ -1001,7 +1001,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_7
+      name: Airduct
       rect:
         serializedVersion: 2
         x: 112
@@ -1190,7 +1190,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_21
+      name: Stair_CL
       rect:
         serializedVersion: 2
         x: 80
@@ -1211,7 +1211,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_22
+      name: Stair_CR
       rect:
         serializedVersion: 2
         x: 96
@@ -1484,7 +1484,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_37
+      name: Stair_BL
       rect:
         serializedVersion: 2
         x: 80
@@ -1505,7 +1505,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_38
+      name: Stair_BR
       rect:
         serializedVersion: 2
         x: 96
@@ -1547,7 +1547,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_48
+      name: Fountain1_T
       rect:
         serializedVersion: 2
         x: 0
@@ -1589,7 +1589,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_50
+      name: Plain_Ground
       rect:
         serializedVersion: 2
         x: 32
@@ -1610,7 +1610,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_51
+      name: Fountain2_T
       rect:
         serializedVersion: 2
         x: 48
@@ -1652,7 +1652,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_53
+      name: Pipe_S
       rect:
         serializedVersion: 2
         x: 80
@@ -1862,13 +1862,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_64
+      name: Fountain1_Red_C
       rect:
         serializedVersion: 2
         x: 0
-        y: 160
+        y: 176
         width: 16
-        height: 32
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1883,13 +1883,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_65
+      name: Fountain1_Green_C
       rect:
         serializedVersion: 2
         x: 16
-        y: 160
+        y: 176
         width: 16
-        height: 32
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1904,13 +1904,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_66
+      name: Fountain1_Blue_C
       rect:
         serializedVersion: 2
         x: 32
-        y: 160
+        y: 176
         width: 16
-        height: 32
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1925,70 +1925,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_67
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 160
-        width: 16
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e5003ef926c95f30800000000000000
-      internalID: 4564897580977227239
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Atlas_68
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 160
-        width: 16
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61a057c3cebabd860800000000000000
-      internalID: 7555821830959073814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Atlas_69
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 160
-        width: 16
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2772241b08261aa0800000000000000
-      internalID: -6190716609726613716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Atlas_76
+      name: Flag_Red
       rect:
         serializedVersion: 2
         x: 192
@@ -2009,7 +1946,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_77
+      name: Flag_Green
       rect:
         serializedVersion: 2
         x: 208
@@ -2030,7 +1967,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_78
+      name: Flag_Blue
       rect:
         serializedVersion: 2
         x: 224
@@ -2051,7 +1988,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_79
+      name: Flag_Yellow
       rect:
         serializedVersion: 2
         x: 240
@@ -2072,13 +2009,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_86
+      name: Pipe_T
       rect:
         serializedVersion: 2
         x: 96
-        y: 160
+        y: 192
         width: 16
-        height: 48
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2156,70 +2093,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_90
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 144
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e1faabe03e1da870800000000000000
-      internalID: 8695639650983408100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Atlas_92
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 144
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c39a8ca246e811f0800000000000000
-      internalID: -1073855337090870336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Atlas_94
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 144
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52fdb1f7b0028e7a0800000000000000
-      internalID: -6347788441029451995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Atlas_96
+      name: Clearing_0_0
       rect:
         serializedVersion: 2
         x: 0
@@ -2240,7 +2114,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_97
+      name: Clearing_1_0
       rect:
         serializedVersion: 2
         x: 16
@@ -2261,7 +2135,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_98
+      name: Clearing_2_0
       rect:
         serializedVersion: 2
         x: 32
@@ -2282,7 +2156,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_99
+      name: Clearing_3_0
       rect:
         serializedVersion: 2
         x: 48
@@ -2366,7 +2240,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_112
+      name: Clearing_0_1
       rect:
         serializedVersion: 2
         x: 0
@@ -2387,7 +2261,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_113
+      name: Clearing_1_1
       rect:
         serializedVersion: 2
         x: 16
@@ -2408,7 +2282,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_114
+      name: Clearing_2_1
       rect:
         serializedVersion: 2
         x: 32
@@ -2429,7 +2303,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_115
+      name: Clearing_3_1
       rect:
         serializedVersion: 2
         x: 48
@@ -2471,13 +2345,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_117
+      name: Box1_B
       rect:
         serializedVersion: 2
         x: 80
         y: 128
         width: 16
-        height: 21
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2492,13 +2366,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_118
+      name: Box2_B
       rect:
         serializedVersion: 2
         x: 96
         y: 128
         width: 16
-        height: 32
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2702,7 +2576,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_128
+      name: Clearing_0_2
       rect:
         serializedVersion: 2
         x: 0
@@ -2723,7 +2597,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_129
+      name: Clearing_1_2
       rect:
         serializedVersion: 2
         x: 16
@@ -2744,7 +2618,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_130
+      name: Clearing_2_2
       rect:
         serializedVersion: 2
         x: 32
@@ -2765,7 +2639,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_131
+      name: Clearing_3_2
       rect:
         serializedVersion: 2
         x: 48
@@ -3311,7 +3185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_166
+      name: Torch_0
       rect:
         serializedVersion: 2
         x: 112
@@ -3332,7 +3206,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_167
+      name: Torch_1
       rect:
         serializedVersion: 2
         x: 128
@@ -3353,7 +3227,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_168
+      name: Torch_2
       rect:
         serializedVersion: 2
         x: 144
@@ -3374,7 +3248,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_169
+      name: Torch_3
       rect:
         serializedVersion: 2
         x: 160
@@ -3395,7 +3269,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_170
+      name: Torch_4
       rect:
         serializedVersion: 2
         x: 176
@@ -3416,7 +3290,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_171
+      name: Torch_5
       rect:
         serializedVersion: 2
         x: 192
@@ -3437,7 +3311,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_172
+      name: Torch_6
       rect:
         serializedVersion: 2
         x: 208
@@ -3458,7 +3332,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_173
+      name: Torch_7
       rect:
         serializedVersion: 2
         x: 224
@@ -3479,7 +3353,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_174
+      name: Torch_8
       rect:
         serializedVersion: 2
         x: 240
@@ -3647,7 +3521,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_189
+      name: Chest_Silver_Closed
       rect:
         serializedVersion: 2
         x: 224
@@ -3668,7 +3542,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_190
+      name: Chest_Gold_Closed
       rect:
         serializedVersion: 2
         x: 240
@@ -3899,7 +3773,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_205
+      name: Chest_Silver_Open_Empty
       rect:
         serializedVersion: 2
         x: 224
@@ -3920,7 +3794,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_206
+      name: Chest_Gold_Open_Empty
       rect:
         serializedVersion: 2
         x: 240
@@ -4214,7 +4088,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_220
+      name: Chest_Silver_Open_Full
       rect:
         serializedVersion: 2
         x: 224
@@ -4235,7 +4109,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_221
+      name: Chest_Gold_Open_Full
       rect:
         serializedVersion: 2
         x: 240
@@ -4655,7 +4529,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Knight_Red
+      name: GoldKnight_Red
       rect:
         serializedVersion: 2
         x: 240
@@ -4676,12 +4550,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_0
+      name: Fountain3_Green_BL
       rect:
         serializedVersion: 2
         x: 160
-        y: 176
-        width: 32
+        y: 144
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4692,6 +4566,636 @@ TextureImporter:
       bones: []
       spriteID: b4630947ca4088ddfbd8dd9ae7d01e79
       internalID: 1780488486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b18b28aa0c0789ebb4708db5365c004
+      internalID: -1278045201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain1_Red_B
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e916ed4b35cc8e569b9437bdc511ce9f
+      internalID: 622419988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain1_Green_B
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2701811fc92d1042a846eb2f8a72dd56
+      internalID: -4272707242783423304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain1_Blue_B
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6662e1d26da34248c4a62e2634ffcc
+      internalID: 1726203059708922746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_c
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe47c736952251b22aef18a0de962298
+      internalID: -1696123843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box2_T
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fa97906b34cfb858acf8e88f7b8741
+      internalID: 1150440565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box1_T
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa4cb0d0f24439b1be6d194d57db089
+      internalID: -524843638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_Green_BR
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b2b150bb19372cd92d80867a6034c1
+      internalID: -1486795246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_Blue_BL
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787bed0ce681e7e9689a8c0b607fab4b
+      internalID: 1970768333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_Blue_BR
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c0de182a9ce3fea99cf4a12df0e297
+      internalID: 1977881471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_Red_BL
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad4e4098d5f4298fb8f54dea5a2c14e
+      internalID: -196672781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_Red_BR
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e680dd60857b9f8a8b22bba6f0b90ff6
+      internalID: -189283719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_Red_CR
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0708188f456a4e6b609b75d67ca7cb
+      internalID: -1476084368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_Red_CL
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f9ffe3efd0828ebbc2d377e1cc61d1
+      internalID: 1375008846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_Blue_CR
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d31dfdffc9e37779a3cf9eacd61224
+      internalID: 1831594280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_Blue_CL
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5815e44179ee41790a4563f91353036d
+      internalID: 1621397079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_Green_CR
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049490b8d4b4c084b76e7da79650baf
+      internalID: 1701119044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_TR
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601b09ee87ab75b41a73a4511bfd63d6
+      internalID: -73160798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_TL
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b45460a55b730f2856284b47fe29f6
+      internalID: -665395084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain3_Green_CL
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd037a34690c77e0fae1a79ab3dab615
+      internalID: -1485508377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_TC
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76faa2ad98f175a4c8792ed817cd4ec7
+      internalID: -731579841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_CC
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d151a33f4a7f36103b852a892081ff2c
+      internalID: -1274724352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_BC
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf6e41e7ea7e8ff5a6c765734ff26f4
+      internalID: -480295004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain2_Red_C
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fbdd5835fac366b85e1f31b52d04d3
+      internalID: 1679990109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain2_Green_C
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c5e055bf72bc6d49f588a445e81617
+      internalID: 531913117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain2_Blue_C
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4034864b8ac84ebfaba9a786bc59cb7f
+      internalID: -895423339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain2_Blue_B
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b589a310815d46ed4ad21726caef0717
+      internalID: -1222004385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain2_Green_B
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9984d54af15896c5bbd9c97bab09fe14
+      internalID: 1809571119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain2_Red_B
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9108bf0b0c39ef188d0dcc4bae2a917
+      internalID: -564729338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box1_Dyn
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2aeefacb7f566ebb13c8c4e2719215
+      internalID: 1909214032
       vertices: []
       indices: 
       edges: []
@@ -4707,195 +5211,225 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Clearing_0_2: 2065554569806331414
       Atlas_229: 4761799070862718283
-      Atlas_205: 2669436491556051002
+      Torch_2: 1795044691761087790
       Atlas_148: -683848513557999592
       Roof_R: -6721728136321296765
       Atlas_30: -7503008079389545076
       Atlas_217: -3405728437772958689
+      Torch_5: 4874683732474967589
       Atlas_90: 8695639650983408100
+      Clearing_3_0: -6674061656437328523
+      Fountain3_Blue_CR: 1831594280
       Atlas_126: -5449635065517954884
-      Atlas_99: -6674061656437328523
       Atlas_47: -2285114424382770006
-      Atlas_21: 745968338076216934
-      Atlas_89: -1463246288967468283
+      Fountain1_Blue_B: 1726203059708922746
+      Fountain2_Green_B: 1809571119
       Atlas_219: 2900082034609347329
+      Atlas_89: -1463246288967468283
       Atlas_222: 4088637796409067406
-      Atlas_4: 5327950094024008212
+      Fountain2_Blue_B: -1222004385
+      Pipe_T: -22031193460720863
       Atlas_36: 3235062197104327778
+      Plain_Ground: -6026731920720571777
       Atlas_198: -6074825214668420454
+      Stair_CC: -1274724352
       Atlas_225: 1563001697749613163
+      Fountain3_Green_BL: 1780488486
       Knight_Blue: 914802580307632230
       Atlas_187: -5975647418825409250
       Atlas_192: -1491367757287608160
-      Knight_Red: -5359666241724609647
+      Stair_BR: 5035139237759867391
+      Fountain3_Blue_CL: 1621397079
       Atlas_210: -1763265158877504144
-      Atlas_98: -3219154307197777229
+      Flag_Blue: -1655761581076612383
       Atlas_145: -5601785829698105500
-      Atlas_169: -6653695138823910822
       Atlas_238: 1293343011582152986
-      Atlas_172: -3377246161383508363
       Atlas_63: -69871916218363647
       Atlas_150: 1333508659801256148
       Player_0: -4679125421587704770
       Atlas_13: 3628468241054914511
-      Atlas_112: 5735746141890243810
+      Floor: 2185041290902523119
       Atlas_92: -1073855337090870336
       Atlas_215: 8899257129658453706
+      Fountain2_Red_C: 1679990109
       Atlas_180: -4889700749085891745
-      Floor: 2185041290902523119
+      Clearing_2_2: -6306588709759662703
+      Box1_Dyn: 1909214032
       Atlas_235: 2680197654725019377
       Atlas_23: -2217874986795218178
+      Fountain1_T: 620111541035404702
       Atlas_146: -672990728313235662
-      Atlas_114: 1228791549236833675
+      Clearing_3_1: -8831119618608956436
       Floor_0: 8763075827263660502
-      Atlas_78: -1655761581076612383
       Roof_L: 4018074224661003100
       Atlas_144: 8453345496452838924
+      Box2_T: 1150440565
       Roof: -4869357254534750094
       Atlas_164: 8418526774496388321
-      Atlas_113: 1468159902497108060
-      Atlas_220: -4237532329049844237
+      Atlas_15: -507267453
+      Fountain1_Green_C: -8143584818952536569
+      Torch_7: -2128079399532438576
       Wall_0: -349028749020191069
-      Atlas_11: -4272707242783423304
+      Chest_Gold_Open_Full: -3170149689839786730
       Atlas_19: -8369517905372312421
-      Atlas_12: 1726203059708922746
-      Atlas_20: -9106852675655700425
       Atlas_142: -7285169058570583072
-      Atlas_131: 4260230133318524069
+      Atlas_20: -9106852675655700425
+      Torch_6: -3377246161383508363
+      Clearing_1_0: 4993946416697196515
       Atlas_49: -2016447386726003157
       Atlas_127: -3645714489839942093
       Atlas_123: -4517983533354448130
       Atlas_74: 6582207593987013538
       Atlas_149: 3836268752690346707
-      Atlas_10: -7450669156800766785
       Atlas_162: 9138067707148748450
-      Atlas_48: 620111541035404702
-      Wall: -1291705123832498677
-      Wall_L: 3823991837180300354
-      Atlas_211: 5230044074609185554
+      Atlas_10: -7450669156800766785
       Atlas_236: -1989750950583365226
-      Atlas_37: 6913638643635410091
-      Atlas_129: 5158046814212017536
+      Torch_4: -2956972623912468626
+      Torch_3: -6653695138823910822
+      Wall: -1291705123832498677
+      Fountain3_Green_CL: -1485508377
+      Wall_L: 3823991837180300354
+      Torch_1: 5279542495143232753
+      Atlas_211: 5230044074609185554
+      Stair_TL: 6615319868462110837
+      Stair_TR: -1347233719151212251
       Atlas_176: -1462902111062902586
       Atlas_231: -5565515804791746063
       Atlas_122: 5282107091281605150
       Atlas_208: 4533331785425328769
+      Stair_CL: 745968338076216934
       Knight_Green: -9019276980518824738
+      Fountain2_Green_C: 531913117
+      Flag_Yellow: -5657005582927067749
       Atlas_223: 6568650132452447493
+      Airduct: 7870480730772048316
       Atlas_203: 1849083040758891110
+      Torch_0: 6523720603020167154
       Atlas_178: -8913237869117699007
       Atlas_202: 5834862339343480434
-      Atlas_118: -1927701862735519164
-      Atlas_166: 6523720603020167154
       Floor_r: 2592197434785513267
-      Atlas_171: 4874683732474967589
-      Atlas_0: 1780488486
+      Pipe_C: 5327950094024008212
+      Fountain1_Red_C: 1839998147110866507
+      Stair_BC: -480295004
       Atlas_136: -5489804780428467980
-      Atlas_22: -2834699621007424056
       Atlas_28: 4355180666568580090
+      Chest_Gold_Open_Empty: 8553001441579941725
       Atlas_230: -6231863203862500562
       Atlas_138: 4674313893802394695
+      Flag_Red: 2489748775411591063
       Atlas_61: 3059076114534577413
-      Atlas_66: 4289113178680934050
+      Fountain3_Blue_BR: 1977881471
+      Fountain3_Red_BR: -189283719
       Atlas_59: -7870807981238829915
-      Atlas_97: 4993946416697196515
-      Atlas_115: -8831119618608956436
+      Stair_BL: 6913638643635410091
       Atlas_191: -1623517267125872434
       Atlas_226: 6793705753367266432
       Atlas_24: 2748396297729853354
       Atlas_88: -2512490208455336206
       Atlas_218: -4635852911317387512
-      Atlas_174: -3751813274499125921
-      Atlas_7: 7870480730772048316
-      Atlas_206: 8553001441579941725
+      Clearing_2_0: -3219154307197777229
+      Fountain2_Blue_C: -895423339
+      Clearing_1_2: 5158046814212017536
       Atlas_75: 2114176695594709982
       Atlas_58: -9052792337493064725
-      Atlas_50: -6026731920720571777
-      Atlas_53: -1988828135353101337
       Atlas_56: -3149050133103254212
       Atlas_134: -8316470683659449790
       Atlas_137: -4644871236224470522
       Wall_r: 7182614658172301277
+      Pipe_: -1278045201
       Atlas_224: 1032417917921144236
-      Atlas_38: 5035139237759867391
+      Clearing_3_2: 4260230133318524069
+      Fountain3_TL: -665395084
       Atlas_55: 4204374477710404856
       Floor_L: 8970763576347242229
+      Pipe_S: -1988828135353101337
       Atlas_216: -4818687239142206308
+      Fountain3_TR: -73160798
       Atlas_133: 485732163628930376
-      Atlas_3: -7826287199498012479
-      Atlas_77: 9048021198963646631
-      Atlas_86: -22031193460720863
-      Atlas_190: 7830920448493193388
-      Atlas_5: 6615319868462110837
+      Torch_8: -3751813274499125921
+      Flag_Green: 9048021198963646631
+      Fountain1_Green_B: -4272707242783423304
       Atlas_147: 2317926390724186292
       Atlas_62: 5330871289308464701
       Atlas_94: -6347788441029451995
-      Atlas_51: -2386295036631077607
       Atlas_228: -8664887039082023
       Atlas_143: 4717538880131706823
-      Atlas_76: 2489748775411591063
       Atlas_161: 1278321472192931778
       Atlas_119: 5867767232804167169
       Atlas_140: 5972812473348347128
-      Atlas_168: 1795044691761087790
+      Clearing_1_1: 1468159902497108060
       Atlas_193: 7876846612205538191
       Atlas_141: 8338679216732403370
       Atlas_52: -6613792370922084840
+      Fountain3_Blue_BL: 1970768333
       Atlas_104: 2797862723735380732
-      Atlas_6: -1347233719151212251
-      Atlas_25: -4446556834619780616
       Atlas_132: 8542437031196934295
+      Atlas_25: -4446556834619780616
       Atlas_165: 6851603229450044466
       Atlas_196: -4638989053700399337
       Atlas_214: -7822583012398548117
-      Atlas_96: -7783718732650132734
-      Atlas_167: 5279542495143232753
+      Chest_Gold_Closed: 7830920448493193388
       Atlas_105: 8121168628305159327
-      Atlas_79: -5657005582927067749
       Player_1: 5583876565584583855
       Atlas_209: -2126385709890370048
+      Box2_B: -1927701862735519164
       Atlas_239: 7527031503490443457
       Atlas_124: 6195355975057876068
-      Atlas_64: 1839998147110866507
+      Stair_CR: -2834699621007424056
       Atlas_195: -1635641150776411231
+      Fountain3_Red_CL: 1375008846
       Atlas_125: -7820586670751914024
-      Atlas_130: -6306588709759662703
+      Stair_TC: -731579841
+      Fountain3_Red_CR: -1476084368
+      Clearing_0_1: 5735746141890243810
       Atlas_177: -4455036496089959535
       Atlas_163: -3312577920043477794
+      Clearing_0_0: -7783718732650132734
+      Fountain2_T: -2386295036631077607
+      Fountain2_Red_B: -564729338
       Atlas_194: -9200307103332698617
-      Atlas_65: -8143584818952536569
+      Box1_T: -524843638
       Atlas_160: -1735354075009934896
       Atlas_120: -8185897339956213143
+      Pipe_c: -1696123843
       Atlas_87: 6650110119159395926
       Atlas_207: 5009196601072047290
       Atlas_8: -407774699277236136
       Knight_Yellow: 584616587254752349
+      Atlas_14: -749449524
+      Fountain1_Blue_C: 4289113178680934050
+      Clearing_2_1: 1228791549236833675
       Atlas_27: 7029400602700474323
-      Atlas_173: -2128079399532438576
+      Fountain1_Red_B: 622419988
       Atlas_60: -7548257428066557718
       Atlas_200: 6853282960571149714
       Atlas_68: 7555821830959073814
       Atlas_135: -8564573002868041743
       Atlas_213: 3588590444508807153
-      Atlas_117: 2322255078549889286
+      Fountain3_Green_CR: 1701119044
+      Box1_B: 2322255078549889286
       Atlas_121: 1235905157742314728
+      GoldKnight_Red: -5359666241724609647
+      Chest_Silver_Closed: -2355505969325306380
+      Fountain3_Green_BR: -1486795246
+      Pipe_BR: -7826287199498012479
       Atlas_212: -2539017706164072249
+      Chest_Silver_Open_Full: -4237532329049844237
       Atlas_69: -6190716609726613716
-      Atlas_189: -2355505969325306380
       Atlas_26: -2151125692419375991
-      Atlas_227: 8545019942717369686
-      Atlas_128: 2065554569806331414
       Atlas_29: 5894979182433546639
-      Atlas_67: 4564897580977227239
+      Atlas_227: 8545019942717369686
       Atlas_139: -6979118313553200608
       Atlas_57: -5574873882498854606
-      Atlas_179: 667348974007956467
-      Atlas_237: -7673452796629743350
-      Atlas_9: -5599750456436461424
+      Atlas_67: 4564897580977227239
       Atlas_175: 8339673697380676364
-      Atlas_221: -3170149689839786730
-      Atlas_170: -2956972623912468626
+      Atlas_179: 667348974007956467
+      Atlas_9: -5599750456436461424
+      Atlas_237: -7673452796629743350
+      Fountain3_Red_BL: -196672781
+      Chest_Silver_Open_Empty: 2669436491556051002
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
