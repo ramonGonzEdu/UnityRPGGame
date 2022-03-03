@@ -19,8 +19,6 @@ public class CameraMotor : MonoBehaviour
         Vector2 cameraSnapInterval = new Vector2((cam.orthographicSize * 2 * cam.aspect) / Screen.width, (cam.orthographicSize * 2) / Screen.height);
         // Vector2 cameraSnapInterval = new Vector2(1 / 16, 1 / 16);
 
-        Debug.Log(cameraSnapInterval);
-
         Vector3 delta = Vector3.zero;
 
         // Check if Player is within camera bounds and set values in delta.
