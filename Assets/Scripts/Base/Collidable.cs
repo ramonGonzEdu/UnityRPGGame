@@ -5,18 +5,21 @@ using UnityEngine;
 [RequireComponent(typeof(Collider2D))]
 public class Collidable : UnityEngine.MonoBehaviour
 {
-    public ContactFilter2D filter;
+    public ContactFilter2D filter = new ContactFilter2D();
     private Collider2D colliderComponent;
-    private List<Collider2D> hits = new List<Collider2D>();
+    private List<Collider2D> hits;
 
     protected virtual void Start()
     {
         colliderComponent = GetComponent<Collider2D>();
+        hits = new List<Collider2D>();
     }
 
     protected virtual void Update()
     {
-        int hitCount = colliderComponent.OverlapCollider(filter, hits);
+        int hitCount = colliderComponent.OverlapCollider(
+            filter,
+            hits);
         for (int i = 0; i < hitCount; i++)
         {
             if (hits[i] == null) continue;
@@ -26,5 +29,8 @@ public class Collidable : UnityEngine.MonoBehaviour
         }
     }
 
-    protected virtual void OnCollide(Collider2D hit) { }
+    protected virtual void OnCollide(Collider2D hit)
+    {
+        Debug.Log("Debug Collidable");
+    }
 }
