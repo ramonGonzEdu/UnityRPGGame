@@ -25,6 +25,8 @@ public class Manager : MonoBehaviour
     Player player;
     public PlayerData data;
 
+    bool triedLoad = false;
+
 
 
     void Awake()
@@ -41,15 +43,17 @@ public class Manager : MonoBehaviour
 
     void SaveState(Scene s, LoadSceneMode mode)
     {
+        if (!triedLoad) return;
         string dataJSON = JsonUtility.ToJson(data);
         Debug.Log(dataJSON);
         PlayerPrefs.SetString("PlayerData", dataJSON);
     }
     void LoadState(Scene s, LoadSceneMode mode)
     {
+        triedLoad = true;
         if (!PlayerPrefs.HasKey("PlayerData")) return;
 
         string dat = PlayerPrefs.GetString("PlayerData");
-        JsonUtility.FromJson<PlayerData>(dat);
+        JsonUtility.FromJsonOverwrite(dat, data);
     }
 }

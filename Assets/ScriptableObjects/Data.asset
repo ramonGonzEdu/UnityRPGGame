@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pClass: 0
   currentWeapon: {fileID: 0}
-  money: 50
+  money: 75
   xp: 0

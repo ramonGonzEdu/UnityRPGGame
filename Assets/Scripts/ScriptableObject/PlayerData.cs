@@ -2,6 +2,7 @@ using UnityEngine;
 
 
 [CreateAssetMenu(fileName = "Data", menuName = "GameData/PlayerData", order = 0)]
+[SerializeField]
 public class PlayerData : ScriptableObject
 {
     [SerializeField] public PlayerClasses pClass;
