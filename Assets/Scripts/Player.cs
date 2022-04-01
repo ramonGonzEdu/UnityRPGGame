@@ -4,9 +4,13 @@ using UnityEngine.InputSystem;
 [RequireComponent(typeof(Rigidbody2D))]
 public class Player : MonoBehaviour
 {
-
+    public static Player player;
     private Rigidbody2D body;
     public float speed = 10.0f;
+    private void Awake()
+    {
+        player = this;
+    }
     private void Start()
     {
         body = GetComponent<Rigidbody2D>();

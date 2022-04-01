@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89b0c92564eedc4dabe82a8c6f40284, type: 3}
+  m_Name: Pirate
+  m_EditorClassIdentifier: 
+  className: 5
+  playerSprite:
+  - {fileID: 8545019942717369686, guid: 864c9d1983ee33c4aae64fd0574b2dbf, type: 3}

@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1815867414967804714}
   - component: {fileID: 1815867414967804713}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Light 2D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -125,7 +125,8 @@ GameObject:
   - component: {fileID: 1815867416554099696}
   - component: {fileID: 1815867416554099711}
   - component: {fileID: 1828993100}
-  m_Layer: 0
+  - component: {fileID: 1398738831}
+  m_Layer: 3
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -366,3 +367,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15c50cdbaf8648f00b89cd48a2159542, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1398738831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1815867416554099701}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 218842ee7d113dd4f90143b0a52040cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tagsData:
+    m_keys: []
+    m_values: []
+  inspectorTags:
+  - entities.player
+  amount: 2
+  afterValidation:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
